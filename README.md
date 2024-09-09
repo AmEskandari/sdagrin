@@ -14,7 +14,7 @@ We evaluate SDA-GRIN on four real-world datasets from two domains: SDA-GRIN impr
 
 ## Dataset
 
-The datasets used in this project can be found here. After downloading them, you need to put each dataset in `scripts/datasets/<dataset name>`.
+The datasets used in this project can be found [here](https://drive.google.com/drive/folders/1ygF8sB19WvZ4v3yfymezGDREZU3dX9ee?usp=share_link). After downloading them, you need to put each dataset in `scripts/datasets/<dataset name>`.
 
 ## Checkpoints
 
